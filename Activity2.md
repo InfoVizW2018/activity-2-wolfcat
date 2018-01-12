@@ -6,6 +6,7 @@
 
 **Arrange:** Seperate, Express
 
+
 **Map**
 
 **Colour:** Hue
@@ -23,6 +24,7 @@
 
 **Dataset Availability:** Static
 
+
 **Attributes**
 
 **Attribute Types:** Categorical, Quantitative 
@@ -37,6 +39,7 @@
 **Search:** Location Known, Target Known
 
 **Query:** Identify, Summarize 
+
 
 **Targets**
 
