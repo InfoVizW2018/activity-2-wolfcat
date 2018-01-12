@@ -2,19 +2,19 @@
 ![ok](https://user-images.githubusercontent.com/22562815/34856836-4de472f6-f6fc-11e7-8c74-f6cd82877cda.PNG)
 
 ## How
-**Encode**
+*Encode*
 
 **Arrange:** Seperate, Express
 
 
-**Map**
+*Map*
 
 **Colour:** Hue
 
 **Shape:** Rectangular
 
 ## What
-**Datasets**
+*Datasets*
 
 **Data Types:** Items, Links, Positions
 
@@ -25,14 +25,14 @@
 **Dataset Availability:** Static
 
 
-**Attributes**
+*Attributes*
 
 **Attribute Types:** Categorical, Quantitative 
 
 **Ordering Direction:** Diverging, Cyclic
 
 ## Why
-**Actions**
+*Actions*
 
 **Analyze:** Consume, Discover
 
@@ -41,7 +41,7 @@
 **Query:** Identify, Summarize 
 
 
-**Targets**
+*Targets*
 
 **All Data:** Outliers
 
