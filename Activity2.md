@@ -3,30 +3,44 @@
 
 ## How
 **Encode**
+
 **Arrange:** Seperate, Express
 
 **Map**
+
 **Colour:** Hue
+
 **Shape:** Rectangular
 
 ## What
 **Datasets**
+
 **Data Types:** Items, Links, Positions
+
 **Data and Dataset Types:** Tables
+
 **Dataset Types:** Tables
+
 **Dataset Availability:** Static
 
 **Attributes**
+
 **Attribute Types:** Categorical, Quantitative 
+
 **Ordering Direction:** Diverging, Cyclic
 
 ## Why
 **Actions**
+
 **Analyze:** Consume, Discover
+
 **Search:** Location Known, Target Known
+
 **Query:** Identify, Summarize 
 
 **Targets**
+
 **All Data:** Outliers
+
 **Attributes:** Dependency
 
